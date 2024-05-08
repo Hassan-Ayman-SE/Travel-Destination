@@ -1,3 +1,4 @@
+import './Footer.css';
 function Footer(props) {
   console.log(props);
   return (
